@@ -3,6 +3,7 @@
 	<foreignObject width="100%" height="100%">
 		<html xmlns="http://www.w3.org/1999/xhtml" lang="en" style="height:100%;overflow:hidden;">
 		<head>
+        <base href="https://cdn.jsdelivr.net/gh/solualub/-@main/" />
 			<meta charset="utf-8"/>
 			<meta name="viewport" content="width=device-width,initial-scale=1"/>
 			<title>Solo Central</title>
